@@ -71,4 +71,4 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 
 ## License
 
-This project is licensed under the , allowing for open collaboration and usage.
+This project is licensed under the MIT License, allowing for open collaboration and usage.
